@@ -1,7 +1,0 @@
-service: adapter-common-website-v1
-
-provider:
-  name: aws
-  runtime: nodejs22.x
-  region: ap-southeast-2
-  
